@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C0",
+    "species": "COW",
+    "weight": 250,
+    "feed": 6
+  },
+  {
+    "id": "C1",
+    "species": "COW",
+    "weight": 230,
+    "feed": 5.5
+  },
+  {
+    "id": "G0",
+    "species": "GOAT",
+    "weight": 80,
+    "feed": 2.5
+  },
+  {
+    "id": "H0",
+    "species": "CHICKEN",
+    "weight": 2,
+    "feed": 0.3
+  }
+]
